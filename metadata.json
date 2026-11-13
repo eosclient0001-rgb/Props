@@ -1,0 +1,6 @@
+{
+  "name": "ApexTrack Studio",
+  "description": "Unreal-style 3D motorsport scene editor with drag-and-drop racing cones from a Content Browser and a unified technical SVG icon set.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
